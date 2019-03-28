@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41815" started-at="2019-03-27T09:41:35Z" finished-at="2019-03-27T09:42:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41815" started-at="2019-03-27T09:41:35Z" finished-at="2019-03-27T09:42:16Z">
+      <class name="mavenprj.mavendemo">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:mavenprj.mavendemo@55f3ddb1]" name="precondition" is-config="true" duration-ms="3773" started-at="2019-03-27T09:41:35Z" finished-at="2019-03-27T09:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="getDemoWebShopURL()[pri:0, instance:mavenprj.mavendemo@55f3ddb1]" name="getDemoWebShopURL" duration-ms="37250" started-at="2019-03-27T09:41:38Z" finished-at="2019-03-27T09:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDemoWebShopURL -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:mavenprj.mavendemo@55f3ddb1]" name="postcondition" is-config="true" duration-ms="743" started-at="2019-03-27T09:42:16Z" finished-at="2019-03-27T09:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- mavenprj.mavendemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
